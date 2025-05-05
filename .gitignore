@@ -1,0 +1,49 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+.ia2a/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e caches
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+.cache/
+*.sqlite3
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de credenciais
+.env
+.env.*
+
+# Arquivos de teste/jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.swp
